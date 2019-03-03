@@ -1,2 +1,4 @@
 backup.sql
 *.txt
+*.sql
+qualquer/*
