@@ -1,3 +1,0 @@
-kahuaehuhauhuae
-auhuaegyae
-aeihuaeguyaegay
